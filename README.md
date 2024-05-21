@@ -1,1 +1,1 @@
-# Music-Genre-Detection
+ The Music Genre Detector project is a machine learning-based application designed to classify audio clips into their respective music genres. This project leverages neural networks to analyze and identify patterns within the audio data, providing accurate genre classification.
